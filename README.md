@@ -12,7 +12,7 @@ This Python application solves Sudoku puzzles using a backtracking algorithm and
 
 To use the application, run the `sudoku_app.py` file in a Python 3 environment. The GUI window will appear with a blank Sudoku grid.
 
-##Screenshot
+## Screenshot
 
 ![SudokuScreenshot](https://github.com/AmooniG/Sudoku-Solver/assets/111950883/882fa1c0-5465-462d-afc5-57b14588dc1f)
 
